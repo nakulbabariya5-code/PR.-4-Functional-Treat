@@ -85,7 +85,7 @@ def display_statistics():
 def print_dataset_details(*args, **kwargs):
     """Dataset Characteristics: This function prints optional configurations and details."""
     
-    print("\n--- Dataset Info Summary ---")
+    print("\n Dataset Info Summary ")
     if args:
         print("Additional Labels Provided:", args)
     if kwargs:
