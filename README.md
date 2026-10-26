@@ -26,7 +26,9 @@ Through this project, you will learn:
 - How to use return values
 - How to improve code organization
 - Basic problem-solving using functions
-  #output screen shot:
+
+ # output screen shot
+
   1.<img width="1453" height="765" alt="Screenshot 2026-10-25 160906" src="https://github.com/user-attachments/assets/4e8cc178-ff0f-44be-b7c3-e021896e64cf" />
 2.<img width="1458" height="855" alt="Screenshot 2026-10-25 160922" src="https://github.com/user-attachments/assets/7121366d-0e3b-4ba8-99f0-438454b6e09d" />
 3.<img width="1445" height="671" alt="Screenshot 2026-10-25 160942" src="https://github.com/user-attachments/assets/c93611af-7801-48c7-8100-022956a1a5ec" />
